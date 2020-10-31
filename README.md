@@ -4,6 +4,8 @@
 
 [`homepage`][homepage] [`twitter`][twitter] [`linkedin`][linkedin] [`lastfm`][lastfm] [`reddit`][reddit] [`instagram`][instagram] [`spotify`][spotify]
 
+[![asd](https://europe-west1-melchor9000-webpage.cloudfunctions.net/nowPlaying/svg)][lastfm]
+
   [sourcerer]: https://sourcerer.io/melchor629
   [homepage]: https://melchor9000.me/
   [twitter]: https://twitter.com/melchor629
