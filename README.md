@@ -16,5 +16,5 @@
   [linkedin]: https://www.linkedin.com/in/melchor9000/
   [lastfm]: https://www.last.fm/user/melchor629
   [reddit]: https://www.reddit.com/user/melchor9000/
-  [instagram]: https://www.linkedin.com/in/melchor9000/
+  [instagram]: https://www.instagram.com/melchor9000/
   [spotify]: https://open.spotify.com/user/melchor629
