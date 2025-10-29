@@ -7,7 +7,7 @@
   ![My stats](https://github-readme-stats.vercel.app/api?username=melchor629&show_icons=true&hide_border=true&theme=gruvbox)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melchor629&hide_border=true&theme=gruvbox&layout=compact" height="195px" alt="Top Languages" />
 
-  [![asd](https://europe-west1-melchor9000-webpage.cloudfunctions.net/nowPlaying/svg)][lastfm]
+  [![asd](https://melchor9000.me/experiments/now-listening/svg)][lastfm]
 
 </div>
 
